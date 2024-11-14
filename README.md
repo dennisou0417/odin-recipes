@@ -1,2 +1,2 @@
 # odin-recipes
-Creating a recipes website
+Creating a recipes website using HTML.
