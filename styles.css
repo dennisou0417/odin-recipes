@@ -1,0 +1,12 @@
+#title{
+    color: orange;
+}
+
+.recipelist{
+    background-color: lightgrey;
+    padding:40px;
+}
+
+.items{
+    font-weight: bold;
+}
