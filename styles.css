@@ -1,12 +1,26 @@
+.headercontainer{
+    text-align: center;
+    padding: 25px;
+    margin:25px 0;
+    background-color: blue;
+}
+
 #title{
     color: orange;
+}
+
+.recipecontainer{
+    text-align: center;
 }
 
 .recipelist{
     background-color: lightgrey;
     padding:40px;
+    list-style-type: none;
+    display:block;
 }
 
 .items{
     font-weight: bold;
+    margin:10px;
 }
